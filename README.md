@@ -180,5 +180,4 @@ Your Ceph Cluster is now installed and configured using Ceph-deploy on Ubuntu 18
 
 ---
 
-**Author:** Mohammad Talebi
-
+> Created by [Mohammad Talebi](https://linkedin.com/in/mtlbd) – DevOps Engineer 👨‍💻
